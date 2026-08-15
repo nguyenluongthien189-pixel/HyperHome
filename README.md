@@ -84,7 +84,7 @@ permissions:
 
 ## 👨‍💻 Tác Giả
 
-- **Đội ngũ phát triển**: `HyperDev`, `ItzShino`, `Yaanghi`
+- **Đội ngũ phát triển**:`ItzShino`, `Yaanghi`
 
 ---
 
